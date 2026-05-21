@@ -1,4 +1,4 @@
-# 🛡️ The Addiction Tracker app - Recovery & Progress Tracker
+# Addiction Tracker app - Recovery & Progress Tracker
 
 The Addiction Tracker app is a modern, high-performance Android application designed to help users track their journey toward overcoming addictions. 
 It combines evidence-based tracking (streaks and milestones) with cutting-edge AI support to provide a personal recovery coach in your pocket.
@@ -66,6 +66,3 @@ The app follows the **Official Android Recommended Architecture** (MVVM + Reposi
 ![Goals](./screenshots/goals.png)
 ![Settings](./screenshots/settings.png)
 ![Romanian_language](./screenshots/romanian.png)
-
----
-**Developed with ❤️ for a healthier lifestyle.**
