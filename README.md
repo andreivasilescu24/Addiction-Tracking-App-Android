@@ -1,3 +1,5 @@
+Vasilescu Andrei - SCPD
+
 # Addiction Tracker app - Recovery & Progress Tracker
 
 The Addiction Tracker app is a modern, high-performance Android application designed to help users track their journey toward overcoming addictions. 
